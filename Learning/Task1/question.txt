@@ -1,0 +1,11 @@
+A.
+
+1. Write a python program to count the number of pages,  
+lines ,  paragraphs, and words in the given text file.
+
+2. Demonstrate all string functions in python  
+
+B.
+Try to identify any one web scraper and extract the any one our faculty
+details from google scholar/Christ university website. Perform the word
+cloud after necessary preprocessing pipelines. Write your comments
